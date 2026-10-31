@@ -98,9 +98,9 @@ Full rule: [DA-02-critical-log-source-silent.kql](https://github.com/RabiatuMoha
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The leaver who never left: tuning a Sentinel detection from 103 rows to one alert](https://rabiatucloud.hashnode.dev/the-leaver-who-never-left-tuning-a-sentinel-detection-from-103-rows-to-one-alert)
 - [How to Set Up Ping URL Tests and Health Checks with Azure Monitor Application Insights.](https://rabiatucloud.hashnode.dev/how-to-set-up-ping-url-tests-and-health-checks-with-azure-monitor-application-insights)
 - [Create and Test an ASP.NET Core App in Azure DevOps Pipelines](https://rabiatucloud.hashnode.dev/create-and-test-an-aspnet-core-app-in-azure-devops-pipelines)
-- [Adding and Configuring Jenkins Nodes for Pipeline Efficiency](https://rabiatucloud.hashnode.dev/adding-and-configuring-jenkins-nodes-for-pipeline-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ### Also
